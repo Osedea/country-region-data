@@ -2800,27 +2800,23 @@
         "shortCode":"AB"
       },
       {
-        "name":"British Columbia",
+        "name":"Colombie Britannique",
         "shortCode":"BC"
+      },
+      {
+        "name":"Île-du-Prince-Édouard",
+        "shortCode":"PE"
       },
       {
         "name":"Manitoba",
         "shortCode":"MB"
       },
       {
-        "name":"New Brunswick",
+        "name":"Nouveau Brunswick",
         "shortCode":"NB"
       },
       {
-        "name":"Newfoundland and Labrador",
-        "shortCode":"NL"
-      },
-      {
-        "name":"Northwest Territories",
-        "shortCode":"NT"
-      },
-      {
-        "name":"Nova Scotia",
+        "name":"Nouvelle-Écosse",
         "shortCode":"NS"
       },
       {
@@ -2832,16 +2828,20 @@
         "shortCode":"ON"
       },
       {
-        "name":"Prince Edward Island",
-        "shortCode":"PE"
-      },
-      {
         "name":"Québec",
         "shortCode":"QC"
       },
       {
         "name":"Saskatchewan",
         "shortCode":"SK"
+      },
+      {
+        "name":"Terre-Neuve-et-Labrador",
+        "shortCode":"NL"
+      },
+      {
+        "name":"Territoires du Nord-Ouest",
+        "shortCode":"NT"
       },
       {
         "name":"Yukon",
